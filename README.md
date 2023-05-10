@@ -10,12 +10,12 @@ Some of the issues found include:
   
 **All this was done in Tableau, created new calculated fields to filter out the unwanted data.**
 ## Regional Sales Revenue over Time
-![Region_Sales_Demand_Over_Time_AdobeExpress](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/f5007cca-54c7-46c5-91fb-bf6a93e31d63)
+![ezgif com-video-to-gif](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/ec6854e9-161b-4f66-995a-367175bc9f1d)
 
 ### Insights to discover:
 ## 1. Country Sales Demand over Time
 ![Region Demographics](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/4d5eea31-18e3-4e14-86dd-693589c59bbc)
-Excluding United Kingdom which was an outlier, the above map is the distribution of revenue analysis by country denoted by color.
+The above map is the distribution of revenue analysis by country denoted by color.
 
 ## 2. Monthly and Revenue Data:
 ![Monthly Quantity   Revenue](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/6ec0ce0b-8dca-4e71-8390-0ab0b697ae9d)
