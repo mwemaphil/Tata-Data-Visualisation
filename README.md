@@ -10,3 +10,8 @@ Some of the issues found include:
   
 **All this was done in Tableau, created new calculated fields to filter out the unwanted data.**
 
+### Questions to answer:
+## 1. Monthly and Revenue Data:
+![Monthly Quantity   Revenue](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/6ec0ce0b-8dca-4e71-8390-0ab0b697ae9d)
+
+
