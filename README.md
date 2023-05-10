@@ -13,5 +13,10 @@ Some of the issues found include:
 ### Questions to answer:
 ## 1. Monthly and Revenue Data:
 ![Monthly Quantity   Revenue](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/6ec0ce0b-8dca-4e71-8390-0ab0b697ae9d)
+From the line time series analysis Sales Revenue and Quantity have a close correlation with both increasing gradually from January 2011 to an all high in November 2011, probably due to Black Friday offers normally in the month of November, before declining ubruptly in the month of December.
 
+## 2. Top 10 countries with the most revenue
+![Region (Revenue vs Demand)](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/19ce6010-5445-45df-8440-3880dac0f032)
+The country with the highest Revunue is EIRE (Irish for Ireland), followed by the Netherlands and closing at top 10 is Japan.
+Additionally i've added a line graph to show the demand in these countries where we can see that as much as EIRE is leading in sales, the Netherlands lead in Quantity ordered (demand in this case) followed by EIRE and so on.
 
