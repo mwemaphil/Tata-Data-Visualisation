@@ -9,11 +9,11 @@ Some of the issues found include:
   2. Erroneous Unit prices likewise had negative values which is abnormal and consequetially i removed all the negative values.
   
 **All this was done in Tableau, created new calculated fields to filter out the unwanted data.**
-## Regional Sales Revenue over Time
+## Regional Demand Revenue over Time
 ![ezgif com-video-to-gif](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/ec6854e9-161b-4f66-995a-367175bc9f1d)
 
 ### Insights to discover:
-## 1. Country Sales Demand over Time
+## 1. Country Sales Revenue over Time
 ![Region Demographics](https://github.com/mwemaphil/Tata-Data-Visualisation/assets/45120853/4d5eea31-18e3-4e14-86dd-693589c59bbc)
 The above map is the distribution of revenue analysis by country denoted by color.
 
